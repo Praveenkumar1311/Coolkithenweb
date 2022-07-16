@@ -1,0 +1,10 @@
+
+.navbar{
+   padding: 20px ;
+}
+.navbar-nav{
+   --bs-nav-link-hover-color:green;
+    font-weight: bold;
+    
+}
+
